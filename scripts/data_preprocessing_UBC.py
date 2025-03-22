@@ -16,11 +16,11 @@ def clean_and_combine_data(df):
 
     # Fix illogical values in sequential columns
     # Ensure: Signed up >= Applied >= Accepted >= Approved >= Realized >= Finished
-    df["Applied"] = df[["Signed up", "Applied"]].min(axis=1)
-    df["Accepted"] = df[["Applied", "Accepted"]].min(axis=1)
-    df["Approved"] = df[["Accepted", "Approved"]].min(axis=1)
-    df["Realized"] = df[["Approved", "Realized"]].min(axis=1)
-    df["Finished"] = df[["Realized", "Finished"]].min(axis=1)
+    # df["Applied"] = df[["Signed up", "Applied"]].min(axis=1)
+    # df["Accepted"] = df[["Applied", "Accepted"]].min(axis=1)
+    # df["Approved"] = df[["Accepted", "Approved"]].min(axis=1)
+    # df["Realized"] = df[["Approved", "Realized"]].min(axis=1)
+    # df["Finished"] = df[["Realized", "Finished"]].min(axis=1)
 
     # Clean GPA (cap at 4.33 and floor at 0)
     df["GPA"] = df["GPA"].clip(0, 4.33)
