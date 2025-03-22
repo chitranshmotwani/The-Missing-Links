@@ -118,21 +118,23 @@ def clean_and_combine_data(df):
 
     # SFU Campus: Assign campus based on academic background
     surrey_campus = [
-        "Computer sciences", "Software development and programming", "Computer engineering",
-        "Electrical engineering", "Aerospace engineering", "Industrial engineering", "Material engineering",
-        "Bioengineering", "Chemical engineering", "Electronics engineering", "Systems and Computing Engineering"
+        "Computer sciences", "Chemical engineering", "Mathematics", "Electronics engineering",
+        "Mechanical engineering", "Systems and Computing Engineering", "Software development and programming",
+        "Computer engineering", "Electrical engineering", "Aerospace engineering", "Industrial engineering",
+        "Material engineering", "Bioengineering", "Physics", "Chemistry"
     ]
-    burnaby_campus = [
-        "Business administration", "Marketing", "Economics", "Finance", "Accounting", "Law",
-        "International Trade", "Banking", "Public administration", "Entrepreneurship", "Human Resources"
+    vancouver_campus = [
+        "Media Arts", "Arts", "Communication & journalism", "Graphic design", "Theatre", "Design"
     ]
+
+    # Assign campus based on background
     df["SFU Campus"] = np.where(
         df["Backgrounds"].isin(surrey_campus),
         "Surrey", 
         np.where(
-            df["Backgrounds"].isin(burnaby_campus),
-            "Burnaby", 
-            "Vancouver"
+            df["Backgrounds"].isin(vancouver_campus),
+            "Vancouver", 
+            "Burnaby"  # Default to Burnaby for all other backgrounds
         )
     )
 
