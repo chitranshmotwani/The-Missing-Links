@@ -1,67 +1,67 @@
 Backgrounds,Signed up,Applied,Accepted,Approved,Realized,Finished,Gender,GPA,Funding
-Accounting,95,95,59,23,18,0,Female,4.25,No
+Accounting,95,562,59,23,18,0,Male,4.25,No
 Aerospace engineering,1,0,0,0,0,0,Male,1.91,No
-Agriculture,14,14,9,3,1,0,Female,1.67,No
-Anthropology,11,11,1,0,0,0,Female,0.05,No
-Archeology,13,13,3,1,0,0,Female,2.8,No
-Architecture,5,5,5,1,1,0,Female,4.18,Yes
-Arts,160,160,100,46,37,2,Female,3.78,No
-Automotive engineering,1,0,0,0,0,0,Female,0.27,No
-Banking,8,8,3,2,1,0,Female,1.77,No
+Agriculture,14,32,9,3,1,0,Male,1.67,No
+Anthropology,11,43,1,0,1,0,Male,0.05,No
+Archeology,13,198,3,1,0,0,Male,2.8,No
+Architecture,5,31,5,1,1,0,Male,4.18,Yes
+Arts,160,545,100,46,37,2,Male,3.78,No
+Automotive engineering,1,0,0,0,0,0,Male,0.27,No
+Banking,8,53,3,2,1,0,Male,1.77,No
 Bioengineering,1,0,0,0,0,0,Male,0.89,No
-Biology,108,108,62,31,27,1,Female,2.93,No
-Biomedical Science,10,10,10,4,3,2,Female,3.98,Yes
-Business administration,236,236,121,48,35,1,Female,3.71,No
-Chemical engineering,12,12,8,2,0,0,Male,0.81,No
-Chemistry,88,88,37,17,13,0,Male,1.55,No
-Civil engineering,15,15,1,1,1,0,Female,0.55,No
-Communication & journalism,21,21,16,6,6,1,Female,4.25,No
-Computer engineering,12,12,4,1,1,0,Male,4.01,Yes
-Computer sciences,53,53,19,10,9,0,Male,3.05,No
-Design,9,8,2,0,0,0,Female,2.85,No
-Earth Sciences,21,21,8,6,4,0,Female,1.35,No
-Ecology,12,12,11,3,1,0,Female,0.19,No
-Economics,192,192,119,51,42,1,Female,0.11,No
-Education,31,31,16,8,5,0,Female,0.62,No
-Electrical engineering,6,6,3,2,2,0,Male,3.37,No
+Biology,108,316,62,31,27,1,Female,2.93,No
+Biomedical Science,10,104,13,4,3,2,Male,3.98,Yes
+Business administration,236,1259,121,48,35,1,Male,3.71,No
+Chemical engineering,12,56,8,2,0,0,Male,0.81,No
+Chemistry,88,260,37,17,13,0,Male,1.55,No
+Civil engineering,15,100,1,1,1,0,Male,0.55,No
+Communication & journalism,21,52,16,6,6,1,Male,4.25,No
+Computer engineering,12,21,4,1,1,0,Male,4.01,Yes
+Computer sciences,53,146,19,10,9,0,Male,3.05,No
+Design,9,13,2,0,0,0,Male,2.85,No
+Earth Sciences,21,141,8,6,4,0,Male,1.35,No
+Ecology,12,44,11,3,1,0,Male,0.19,No
+Economics,192,1008,119,51,42,1,Male,0.11,No
+Education,31,304,16,8,5,0,Female,0.62,No
+Electrical engineering,6,20,3,2,2,0,Male,3.37,No
 Electronics engineering,2,2,0,0,0,0,Male,0.18,No
-Entrepreneurship,9,9,6,3,1,0,Female,2.28,No
-Environmental engineering,5,5,0,0,0,0,Female,2.48,No
-Finance,83,83,48,19,13,2,Female,3.92,Yes
-Geography,26,26,16,10,10,2,Female,4.24,Yes
-Graphic design,10,10,6,1,1,0,Female,0.2,No
-Health Science,45,45,22,9,6,1,Female,1.73,No
-History,22,22,13,7,6,0,Female,2.69,No
-Human Resources,31,31,17,6,3,1,Female,4.27,No
+Entrepreneurship,9,117,6,3,1,0,Male,2.28,No
+Environmental engineering,5,15,0,0,0,0,Male,2.48,No
+Finance,83,520,48,19,13,2,Male,3.92,Yes
+Geography,26,164,16,10,10,2,Male,4.24,Yes
+Graphic design,10,125,6,1,1,0,Female,0.2,No
+Health Science,45,119,22,9,6,1,Female,1.73,No
+History,22,100,13,7,6,0,Male,2.69,No
+Human Resources,31,69,17,6,3,1,Male,4.27,No
 Industrial engineering,1,0,0,0,0,0,Male,2.96,No
-International Trade,8,8,7,0,0,0,Female,2.25,No
-International relations,52,52,45,13,9,0,Female,4.01,No
-Languages,79,79,42,11,8,0,Female,0.92,No
-Law,23,23,10,3,3,0,Female,0.48,No
-Linguistics,25,25,23,10,8,1,Female,4.16,Yes
-Literature,48,48,24,13,11,0,Female,3.91,Yes
-Logistics,8,8,3,0,0,0,Female,2.45,No
-Marketing,136,136,68,21,18,0,Female,1.68,No
+International Trade,8,21,7,0,0,0,Male,2.25,No
+International relations,52,197,45,13,9,0,Male,4.01,No
+Languages,79,453,42,11,8,0,Female,0.92,No
+Law,23,148,10,3,3,0,Male,0.48,No
+Linguistics,25,119,23,10,8,1,Male,4.16,Yes
+Literature,48,124,24,13,11,0,Female,3.91,Yes
+Logistics,8,20,3,0,0,0,Male,2.45,No
+Marketing,136,790,68,21,18,0,Male,1.68,No
 Material engineering,1,0,0,0,0,0,Male,0.76,No
-Mathematics,100,100,66,26,21,0,Male,0.03,No
-Mechanical engineering,19,19,9,6,5,0,Male,3.1,No
-Media Arts,17,17,9,3,3,1,Female,2.6,No
-Medicine,3,3,0,0,0,0,Female,4.28,Yes
-Music,9,9,1,0,0,0,Female,0.82,No
-Other,96,96,47,22,21,2,Female,0.79,No
-Philosophy,65,64,34,10,9,1,Female,0.55,No
-Physics,53,53,34,13,9,2,Male,4.24,Yes
-Political science,73,73,48,17,16,1,Female,2.37,No
-Psychology,156,156,83,5,4,2,Female,4.22,No
-Public relations,4,4,1,1,1,0,Female,3.67,Yes
-Religion,7,7,5,1,1,0,Female,1.73,No
-Social Work,8,8,5,1,1,0,Female,3.44,No
-Sociology,65,65,52,25,22,3,Female,0.6,No
-Software development and programming,11,11,2,1,1,0,Male,2.41,No
-Sports,4,4,2,2,1,0,Female,2.67,No
-Statistics,9,4,2,2,2,0,Female,3.58,Yes
-Sustainability,1,0,0,0,0,0,Female,0.34,No
-Systems and Computing Engineering,14,14,2,1,0,0,Male,0.16,No
-Telecommunication Engineering,3,3,0,0,0,0,Female,2.75,No
-Theatre,17,17,4,2,2,0,Female,2.2,No
-Tourism & hotel management,5,5,1,0,0,0,Female,0.69,No
+Mathematics,100,635,66,26,21,0,Male,0.03,No
+Mechanical engineering,19,88,9,6,5,0,Male,3.1,No
+Media Arts,17,74,9,3,3,1,Female,2.6,No
+Medicine,3,10,0,0,0,0,Male,4.28,Yes
+Music,9,15,1,0,0,0,Male,0.82,No
+Other,96,309,47,22,21,2,Male,0.79,No
+Philosophy,65,232,34,10,9,1,Male,0.55,No
+Physics,53,175,34,13,9,2,Male,4.24,Yes
+Political science,73,285,48,17,16,1,Male,2.37,No
+Psychology,156,649,83,5,33,2,Female,4.22,No
+Public relations,4,6,1,1,1,0,Female,3.67,Yes
+Religion,7,118,5,1,1,0,Female,1.73,No
+Social Work,8,31,5,1,1,0,Female,3.44,No
+Sociology,65,302,52,25,22,3,Female,0.6,No
+Software development and programming,11,16,2,1,1,0,Male,2.41,No
+Sports,4,20,2,2,1,0,Male,2.67,No
+Statistics,9,4,2,2,2,0,Male,3.58,Yes
+Sustainability,1,0,0,0,0,0,Male,0.34,No
+Systems and Computing Engineering,14,40,2,1,0,0,Male,0.16,No
+Telecommunication Engineering,3,8,0,0,0,0,Male,2.75,No
+Theatre,17,35,4,2,2,0,Female,2.2,No
+Tourism & hotel management,5,14,1,0,0,0,Male,0.69,No
