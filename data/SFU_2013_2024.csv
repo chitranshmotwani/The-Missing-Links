@@ -1,0 +1,64 @@
+﻿Backgrounds,Signed up,Applied,Accepted,Approved,Realized,Finished,Completed,Gender,GPA,Funding,Length of Exchange,Motivation,Number of Destinations,English Proficiency,Prior International Experience,SFU Campus,Co-op Participation
+Business administration,292,916,114,79,72,0,1,Male,0.86,No,12,Motivation,2,41,No,Surrey,No
+Marketing,74,377,38,28,28,0,0,Female,2.09,No,5,Cultural,4,28,Yes,Surrey,Yes
+Communication & journalism,69,251,36,22,21,0,0,Female,3.68,No,2,Cultural,3,79,Yes,Surrey,No
+Arts,47,147,32,17,16,0,0,Male,0.61,No,2,Career,2,23,Yes,Surrey,No
+Economics,65,317,26,16,14,0,1,Female,1.36,No,8,Personal Growth,5,95,No,Surrey,Yes
+Psychology,70,314,33,16,14,0,0,Female,1.39,No,12,Cultural,1,69,Yes,Burnaby,No
+Mathematics,45,162,24,14,12,0,0,Female,2.56,No,4,Cultural,3,79,No,Burnaby,Yes
+Computer sciences,51,176,17,12,11,0,0,Female,2.93,No,4,Personal Growth,1,67,Yes,Surrey,Yes
+Biology,43,102,21,11,9,1,0,Female,0.18,No,10,Personal Growth,3,19,Yes,Burnaby,Yes
+Education,42,173,20,10,9,0,1,Male,3.80,Yes,3,Career,2,83,Yes,Surrey,No
+International relations,47,126,24,9,9,0,0,Male,3.56,No,10,Personal Growth,2,96,No,Burnaby,No
+Law,19,66,11,9,8,0,1,Male,0.91,Yes,12,Personal Growth,1,1,No,Vancouver,Yes
+Literature,14,90,14,9,8,0,0,Male,3.94,No,6,Career,4,48,Yes,Burnaby,Yes
+Other,56,150,22,9,9,0,0,Female,1.02,No,5,Personal Growth,2,32,No,Surrey,No
+Accounting,51,122,14,7,7,0,0,Male,3.24,No,6,Personal Growth,1,27,No,Vancouver,Yes
+Chemistry,25,70,11,7,5,0,0,Male,2.78,Yes,2,Personal Growth,3,58,Yes,Surrey,No
+Sociology,22,112,13,7,7,0,0,Female,3.65,Yes,4,Career,5,12,Yes,Surrey,No
+Geography,19,58,10,6,6,0,1,Female,3.40,No,10,Personal Growth,4,76,No,Burnaby,Yes
+Linguistics,15,101,10,6,6,0,0,Male,2.00,Yes,11,Personal Growth,3,44,No,Vancouver,No
+Medicine,6,56,9,6,6,0,0,Female,3.70,No,2,Personal Growth,5,24,Yes,Surrey,Yes
+Human Resources,12,73,6,6,5,0,1,Male,3.35,Yes,8,Career,2,37,Yes,Vancouver,Yes
+Graphic design,15,80,7,5,4,0,0,Male,3.47,No,5,Career,2,9,Yes,Surrey,No
+Philosophy,17,63,12,5,5,0,0,Male,1.68,Yes,2,Personal Growth,4,67,No,Burnaby,No
+Physics,17,36,7,5,5,0,0,Female,2.34,No,7,Cultural,3,27,Yes,Burnaby,No
+Political science,32,128,18,5,5,0,1,Female,0.62,Yes,3,Career,1,24,No,Surrey,Yes
+Software development and programming,15,62,5,4,2,0,0,Male,0.14,No,11,Cultural,3,67,Yes,Surrey,No
+Tourism & hotel management,3,44,5,4,4,0,0,Male,0.06,No,4,Career,5,39,No,Vancouver,Yes
+Health Science,26,56,12,4,4,0,0,Male,2.90,No,10,Personal Growth,1,70,Yes,Surrey,Yes
+Languages,24,59,7,4,4,0,0,Male,0.78,No,2,Personal Growth,2,70,No,Vancouver,Yes
+Finance,30,136,7,3,3,0,0,Female,3.37,No,6,Personal Growth,2,15,No,Vancouver,Yes
+Computer engineering,12,36,2,2,2,0,1,Male,3.85,Yes,1,Cultural,5,51,No,Surrey,No
+Agriculture,2,25,5,1,1,0,0,Male,0.96,No,4,Personal Growth,4,62,No,Vancouver,Yes
+Archeology,4,14,2,1,1,0,0,Female,1.91,Yes,7,Personal Growth,2,45,Yes,Burnaby,No
+Architecture,2,12,1,1,1,0,0,Female,1.57,Yes,1,Cultural,2,49,No,Surrey,Yes
+Electronics engineering,6,16,1,1,1,0,0,Male,4.11,No,8,Career,2,32,Yes,Surrey,Yes
+Public administration,2,2,1,1,1,0,0,Female,1.05,Yes,3,Cultural,1,67,Yes,Burnaby,No
+Public relations,6,48,6,1,1,0,0,Male,4.27,No,1,Personal Growth,2,61,No,Surrey,No
+Religion,1,24,5,1,1,0,0,Male,4.12,Yes,11,Career,1,61,No,Surrey,Yes
+Biomedical Science,10,7,3,1,1,0,1,Female,0.94,No,5,Career,4,100,Yes,Burnaby,No
+Earth Sciences,1,10,5,1,1,0,0,Male,3.96,No,9,Cultural,1,16,Yes,Burnaby,No
+Entrepreneurship,5,4,1,1,1,0,0,Female,2.80,No,7,Career,1,7,Yes,Surrey,Yes
+History,11,43,2,1,1,0,0,Male,1.51,Yes,10,Cultural,5,12,Yes,Surrey,Yes
+Media Arts,12,41,2,1,1,0,0,Male,3.04,No,11,Cultural,5,98,Yes,Surrey,No
+Social Work,1,3,1,1,1,0,0,Female,2.42,No,4,Cultural,1,94,No,Vancouver,Yes
+Statistics,4,41,1,1,0,0,0,Male,2.57,No,3,Cultural,4,60,No,Surrey,Yes
+Design,12,43,1,0,0,0,0,Male,1.71,No,12,Personal Growth,3,96,No,Surrey,Yes
+Mechanical engineering,10,37,0,0,0,0,0,Male,2.74,No,6,Cultural,1,93,No,Vancouver,Yes
+Systems and Computing Engineering,5,28,0,0,0,0,0,Male,2.43,Yes,3,Personal Growth,4,75,No,Surrey,Yes
+Electrical engineering,8,27,0,0,0,0,0,Female,1.61,Yes,3,Career,3,43,No,Burnaby,No
+Aerospace engineering,3,22,0,0,0,0,0,Male,4.26,No,12,Personal Growth,4,52,No,Surrey,Yes
+Industrial engineering,1,22,0,0,0,0,0,Male,1.47,No,11,Personal Growth,2,46,Yes,Burnaby,Yes
+Material engineering,1,22,0,0,0,0,0,Male,2.21,No,10,Personal Growth,2,84,Yes,Surrey,Yes
+Bioengineering,1,22,0,0,0,0,0,Male,2.04,No,7,Personal Growth,4,68,No,Surrey,Yes
+Sports,4,10,0,0,0,0,0,Male,0.00,No,2,Personal Growth,1,92,No,Vancouver,Yes
+Ecology,2,8,0,0,0,0,0,Female,0.74,No,11,Cultural,3,65,Yes,Burnaby,Yes
+Chemical engineering,1,7,0,0,0,0,0,Female,4.12,Yes,9,Career,1,94,No,Surrey,Yes
+Logistics,1,4,0,0,0,0,0,Male,0.04,No,6,Career,1,70,No,Vancouver,Yes
+Theatre,2,4,0,0,0,0,0,Female,4.26,Yes,7,Personal Growth,3,54,Yes,Burnaby,No
+Banking,5,3,0,0,0,0,0,Female,1.93,Yes,4,Career,5,24,No,Vancouver,Yes
+International Trade,2,2,0,0,0,0,0,Male,3.44,No,8,Personal Growth,5,95,No,Vancouver,No
+Environmental engineering,1,1,0,0,0,0,0,Female,1.08,Yes,7,Career,5,98,No,Surrey,No
+Anthropology,1,1,0,0,0,0,0,Male,0.40,Yes,12,Cultural,5,76,No,Burnaby,No
+Audit,1,0,0,0,0,0,0,Male,2.20,No,8,Personal Growth,4,96,No,Burnaby,No
